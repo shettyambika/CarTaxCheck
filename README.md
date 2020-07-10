@@ -7,6 +7,7 @@
 6. If the test fails, the extend report shows the reason of failure along with the screenshot of the page. This screenshot can be found below the displayed error message. Click on the screenshot icon to maximize the screenshot. 
 
 7. TestNG report index.html can also be found under the folder test-output. 
+8. car_output.txt is in outputData folder
 
 
 # Two issues seen:
