@@ -8,6 +8,7 @@
 
 7. TestNG report index.html can also be found under the folder test-output. 
 8. car_output.txt is in outputData folder
+9. Firefox browser version 78.0.2 is used. 
 
 
 # Two issues seen:
